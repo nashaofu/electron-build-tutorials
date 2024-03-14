@@ -2,4 +2,4 @@
 
 一步一步从源码构建 electron
 
-- [Windows](./windows/README.md)
+- [Windows 构建指南](./windows/README.md)
